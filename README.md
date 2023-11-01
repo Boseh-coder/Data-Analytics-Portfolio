@@ -16,11 +16,9 @@ I am a data enthusiast with experience in data analysis, dashboard building, dat
 
 - **SQL:** Proficient in SQL (Structured Query Language), I can manipulate, retrieve, and analyze data efficiently. SQL is a powerful tool for querying databases, and I use it to extract valuable insights.
 
-## Projects (Coming Soon)
+## Projects 
 
-I'm currently in the process of setting up my account, and I will be uploading data analytics projects shortly. These projects will demonstrate my skills and provide real-world examples of my expertise. Stay tuned for exciting data-driven projects!
-
-## Connect with Me
+Here, I showcase my journey and projects related to data analytics and visualization. Currently, I'm actively participating in the: [30DaysDuckDBChallenge](#30DaysDuckDBChallenge)
 
 Feel free to connect with me on LinkedIn to stay updated on my data analytics journey and to discuss potential collaborations or job opportunities www.linkedin.com/in/abosede-igharo-a-a64271158
 
