@@ -18,8 +18,7 @@ I am a data enthusiast with experience in data analysis, dashboard building, dat
 
 ## Projects 
 
-Here, I showcase my journey and projects related to data analytics and visualization. Currently, I'm actively participating in the: [30daysduckdbchallenge](https://github.com/your-boseh-coder/30daysduckdbchallenge)
-
+Here, I showcase my journey and projects related to data analytics and visualization. Currently, I'm actively participating in the: [30daysduckdbchallenge](https://github.com/Boseh-coder/30DaysDuckDBChallenge.git)
 Feel free to connect with me on LinkedIn to stay updated on my data analytics journey and to discuss potential collaborations or job opportunities www.linkedin.com/in/abosede-igharo-a-a64271158
 
 Thank you for visiting my Data Analytics Portfolio. I look forward to sharing my projects and insights with you in the near future!
