@@ -22,8 +22,6 @@ I'm currently in the process of setting up my account, and I will be uploading d
 
 ## Connect with Me
 
-Feel free to connect with me on LinkedIn to stay updated on my data analytics journey and to discuss potential collaborations or job opportunities.
-
-LinkedIn: www.linkedin.com/in/abosede-igharo-a-a64271158
+Feel free to connect with me on LinkedIn to stay updated on my data analytics journey and to discuss potential collaborations or job opportunities. www.linkedin.com/in/abosede-igharo-a-a64271158
 
 Thank you for visiting my Data Analytics Portfolio. I look forward to sharing my projects and insights with you in the near future!
